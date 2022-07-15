@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I am Swastik Sharma, currently in Seneca College and I aspire to be a software developer
+I am Swastik Sharma, currently studying in Seneca College and I aspire to be a software developer. I am open to any
+co-op/internship or project collaboration opportunities.
 
 * Currently working upon `C++`, `Javascript` & `HTML` based projects using a range of frameworks.
 * Currently learning `Java` & `C#`.
@@ -23,10 +24,10 @@ I am Swastik Sharma, currently in Seneca College and I aspire to be a software d
 
 ### * Databases:
 ![mySQL](https://img.shields.io/badge/mySQL-%234ea94b.svg?style=for-the-badge&logo=mySQL&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-Contact Information:
+### * Contact Information:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swastik-sharma-80129b224/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swastiksharma150@gmail.com)
